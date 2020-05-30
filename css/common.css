@@ -6,6 +6,11 @@ body{background-color: #FAFAFA;}
 #a_main{font-family: "Nanum Gothic", sans-serif;}
 #a_main_en{font-family: "Inconsolata", sans-serif;}
 
+#a_main,#a_main_en{
+text-align: center;
+margin: auto;
+}
+
 span{
 color: #282828;
 text-decoration: none;
@@ -64,7 +69,3 @@ label{font-size: 80%;}
 
 .uinotes{font-size: 9px;}
 
-#a_main{
-text-align: center;
-margin: auto;
-}
